@@ -1,0 +1,1 @@
+voiceTubeHEROSearchHelper.init();
